@@ -115,6 +115,7 @@ node_tr* delete_balance(node_tr *root, const char *string)
         printf("No such data\n");
         return root;
     }
+    //printf(" -> %s\n", (char*)root->data);
 
     //if values are not equal
     if (strcmp((char *)root->data, string) > 0)
@@ -151,14 +152,17 @@ node_tr* delete_balance(node_tr *root, const char *string)
         //if both childs are not null: find min element in right and make it (??/ what???)
         else
         {
-            node_tr *temp = find_max_left(root->left); //watch videos about deleting,
+            ///!!!!!! IT'S INCORRECT
+            //node_tr *temp = find_max_left(root->left); //watch videos about deleting,
+            node_tr *temp = find_max_left(root); //and it's correct
+            //printf("Found to replace: %p\n", (void*)temp); //temp is null?
             //what element we are about to find
-
             //free root->data before initializing if it's allocated dynamically
 
             //
             root->data = temp->data;
             root->left = delete_balance(root->left, (char *)temp->data);
+            //printf("Here\n");
             //root = balance(root);
         }
     }
