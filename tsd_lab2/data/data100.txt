@@ -1,0 +1,771 @@
+Malyi theatre
+Chaika
+Garanina
+7697 11172
+musical
+Gershvin
+Ireland
+0
+102
+MXAT
+Kolobok
+Beicon
+1113 7920
+kids
+play
+2
+61
+Malyi theatre
+Planeta bur
+Aalda
+4933 5610
+adults
+play
+Malyi theatre
+Anna Karenina
+Heller
+9727 10454
+kids
+fairytale
+11
+56
+Lenkom
+Petya i Volk
+Aalda
+4024 10936
+adults
+drama
+Ekaterinburgskiy
+Chaika
+Bondarchuck
+2330 7920
+kids
+play
+0
+45
+Bolshoi
+Shelkunchik
+Bird
+9260 14561
+kids
+play
+6
+64
+Lenkom
+Terminator
+Aalda
+8310 11379
+kids
+play
+10
+55
+Bolshoi
+Alenkiy zvetochek
+Garanina
+6892 15643
+kids
+fairytale
+1
+50
+Bolshoi
+Shelkunchik
+Con
+2401 10001
+adults
+comedy
+Lenkom
+Shelkunchik
+Aalda
+966 1513
+adults
+comedy
+MXAT
+LaLalend
+Garanina
+1386 11253
+kids
+fairytale
+12
+50
+Ekaterinburgskiy
+Terminator
+Heller
+7509 13387
+adults
+play
+Mayakovskogo theatre
+Hamlet
+Con
+4669 13328
+adults
+play
+Ekaterinburgskiy
+Hamlet
+Bondarchuck
+9771 11830
+kids
+fairytale
+4
+49
+Malyi theatre
+Hamlet
+Garanina
+8066 13542
+kids
+play
+8
+83
+Vahtangova
+Matriza
+Bird
+8027 14328
+kids
+play
+1
+51
+Mariinskiy
+Hamlet
+Aalda
+875 1661
+musical
+Berlin
+Australia
+2
+138
+MXAT
+Petya i Volk
+Haidai
+6674 9854
+musical
+Berje
+France
+9
+106
+Bolshoi
+Matriza
+Haidai
+4203 11231
+kids
+fairytale
+10
+62
+Lenkom
+Terminator
+Haidai
+9113 14891
+musical
+Kern
+Italy
+3
+144
+MXAT
+Petya i Volk
+Haidai
+9222 13114
+musical
+Low
+UK
+18
+107
+Malyi theatre
+Planeta bur
+Garanina
+529 3740
+musical
+Vasilyev
+USA
+18
+59
+Bolshoi
+Terminator
+Con
+7358 10321
+adults
+comedy
+Lenkom
+Kolobok
+Bird
+7136 11486
+kids
+play
+0
+50
+Bolshoi
+Shelkunchik
+Garanina
+866 6854
+kids
+play
+3
+62
+Lenkom
+Anna Karenina
+Bird
+5435 13844
+kids
+fairytale
+4
+69
+Mayakovskogo theatre
+Terminator
+Garanina
+7460 15668
+musical
+Sai
+Ireland
+8
+100
+Vahtangova
+LaLalend
+Aalda
+9694 17992
+musical
+Berje
+Spain
+11
+142
+MXAT
+Hamlet
+Bondarchuck
+8882 9408
+musical
+Berlin
+Spain
+5
+123
+Vahtangova
+Shelkunchik
+Heller
+7594 11572
+adults
+play
+Bolshoi
+Shelkunchik
+Aalda
+5616 8560
+musical
+Vasilyev
+France
+17
+75
+Mariinskiy
+Planeta bur
+Bird
+6195 11908
+kids
+fairytale
+7
+67
+Lenkom
+Anna Karenina
+Garanina
+7755 11655
+adults
+comedy
+Malyi theatre
+Shelkunchik
+Bird
+4793 5729
+kids
+fairytale
+10
+81
+Vahtangova
+Planeta bur
+Aalda
+8786 9999
+adults
+drama
+Mariinskiy
+Hamlet
+Con
+7237 16883
+musical
+Berlin
+USA
+9
+81
+Mayakovskogo theatre
+Shelkunchik
+Haidai
+5279 7563
+musical
+Andersson
+Australia
+5
+131
+Bolshoi
+Planeta bur
+Bondarchuck
+2267 4203
+kids
+fairytale
+9
+54
+Mayakovskogo theatre
+Chaika
+Aalda
+5772 7489
+musical
+Rogers
+Italy
+10
+118
+Ekaterinburgskiy
+Kolobok
+Haidai
+7280 13639
+musical
+Berlin
+Ireland
+18
+127
+Bolshoi
+Terminator
+Con
+8409 10393
+musical
+Low
+Ireland
+6
+97
+Bolshoi
+Planeta bur
+Bondarchuck
+5832 11522
+adults
+play
+Bolshoi
+Matriza
+Garanina
+3668 8600
+adults
+play
+MXAT
+Hamlet
+Heller
+5642 12492
+kids
+play
+3
+83
+Lenkom
+Terminator
+Bird
+9000 11773
+adults
+drama
+Bolshoi
+Terminator
+Bird
+6043 7118
+kids
+play
+6
+72
+Vahtangova
+Anna Karenina
+Bird
+3245 11836
+adults
+play
+Mayakovskogo theatre
+Alenkiy zvetochek
+Garanina
+3211 7036
+adults
+drama
+Mayakovskogo theatre
+Petya i Volk
+Aalda
+4089 5217
+musical
+Addler
+Italy
+17
+67
+MXAT
+Kolobok
+Bondarchuck
+3496 7579
+musical
+Berje
+Germany
+12
+65
+Bolshoi
+Alenkiy zvetochek
+Bird
+8810 10092
+adults
+comedy
+MXAT
+Kolobok
+Beicon
+9026 11498
+adults
+comedy
+Mariinskiy
+Hamlet
+Haidai
+3338 8781
+adults
+comedy
+Lenkom
+Kolobok
+Bird
+9155 14699
+kids
+fairytale
+0
+81
+Vahtangova
+LaLalend
+Heller
+8595 16222
+kids
+play
+3
+67
+Ekaterinburgskiy
+Chaika
+Heller
+3844 9255
+adults
+comedy
+MXAT
+Shelkunchik
+Beicon
+1277 10460
+adults
+drama
+Malyi theatre
+LaLalend
+Bondarchuck
+7085 15549
+kids
+play
+5
+68
+Mariinskiy
+Kolobok
+Heller
+6424 9482
+adults
+play
+Malyi theatre
+Matriza
+Beicon
+4285 6379
+musical
+Hurwitz
+UK
+15
+134
+Malyi theatre
+Alenkiy zvetochek
+Garanina
+4591 12189
+adults
+comedy
+Ekaterinburgskiy
+Petya i Volk
+Heller
+3325 8836
+musical
+Addler
+France
+6
+61
+Mayakovskogo theatre
+Chaika
+Garanina
+2261 9246
+adults
+play
+Vahtangova
+Planeta bur
+Con
+7925 16714
+musical
+Rogers
+Ireland
+12
+44
+Mariinskiy
+Hamlet
+Bird
+2831 4186
+kids
+play
+8
+48
+Lenkom
+Anna Karenina
+Aalda
+4190 13834
+kids
+play
+11
+62
+MXAT
+Matriza
+Beicon
+2760 10868
+kids
+play
+0
+64
+Mariinskiy
+Alenkiy zvetochek
+Haidai
+6597 14110
+musical
+Rogers
+UK
+5
+53
+Vahtangova
+Petya i Volk
+Bondarchuck
+6331 7287
+musical
+Andersson
+Germany
+0
+112
+Vahtangova
+LaLalend
+Heller
+4184 8744
+musical
+Kern
+Italy
+12
+126
+Malyi theatre
+Shelkunchik
+Con
+1234 6007
+musical
+Rogers
+Australia
+11
+130
+Vahtangova
+Petya i Volk
+Haidai
+3728 13526
+kids
+fairytale
+4
+72
+Ekaterinburgskiy
+Shelkunchik
+Aalda
+5990 15873
+kids
+play
+5
+76
+Mayakovskogo theatre
+Anna Karenina
+Heller
+7864 17584
+adults
+play
+Mayakovskogo theatre
+Matriza
+Aalda
+8469 11216
+kids
+fairytale
+4
+44
+MXAT
+Kolobok
+Haidai
+1943 6060
+adults
+comedy
+Mariinskiy
+Kolobok
+Bondarchuck
+3724 8824
+adults
+comedy
+MXAT
+Anna Karenina
+Heller
+9230 11110
+musical
+Andersson
+UK
+4
+91
+Ekaterinburgskiy
+Shelkunchik
+Con
+2078 9255
+kids
+fairytale
+0
+60
+Lenkom
+LaLalend
+Bird
+2754 5235
+musical
+Hurwitz
+Germany
+2
+149
+MXAT
+Terminator
+Bondarchuck
+8132 13049
+musical
+Rogers
+Ireland
+11
+80
+Mayakovskogo theatre
+Kolobok
+Garanina
+8874 18204
+adults
+drama
+Ekaterinburgskiy
+Anna Karenina
+Aalda
+4296 6417
+musical
+Low
+USA
+0
+65
+Malyi theatre
+Matriza
+Garanina
+8536 12926
+kids
+fairytale
+4
+47
+MXAT
+Anna Karenina
+Garanina
+6198 14908
+adults
+play
+Mariinskiy
+LaLalend
+Con
+9990 15908
+musical
+Kern
+Germany
+5
+90
+Bolshoi
+Matriza
+Bird
+2499 5959
+kids
+play
+7
+72
+MXAT
+Terminator
+Beicon
+5870 15098
+musical
+Kern
+Ireland
+9
+53
+Lenkom
+Anna Karenina
+Haidai
+5196 9191
+adults
+comedy
+Bolshoi
+Terminator
+Beicon
+8833 12338
+musical
+Sai
+USA
+8
+84
+Mariinskiy
+Shelkunchik
+Beicon
+7036 13251
+adults
+drama
+Malyi theatre
+LaLalend
+Heller
+8633 14884
+adults
+comedy
+Mayakovskogo theatre
+Terminator
+Haidai
+1649 9322
+kids
+fairytale
+2
+51
+Malyi theatre
+Hamlet
+Heller
+8834 10882
+musical
+Kern
+Australia
+17
+131
+Malyi theatre
+Anna Karenina
+Aalda
+1628 10740
+musical
+Gold
+Italy
+7
+113
+Bolshoi
+LaLalend
+Haidai
+6417 7343
+kids
+fairytale
+7
+67
+Bolshoi
+Petya i Volk
+Con
+2903 6198
+musical
+Addler
+Italy
+7
+67
+Mariinskiy
+Matriza
+Beicon
+9977 17120
+adults
+comedy
+MXAT
+Anna Karenina
+Aalda
+5531 8948
+musical
+Berlin
+Ireland
+10
+80
